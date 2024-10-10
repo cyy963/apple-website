@@ -35,7 +35,7 @@ export default function Hero() {
           iPhone 15 Pro
         </p>
         <div className="md:w-10/12 w-9/12">
-          <video autoPlay muted playsInline={true} key={videoSrc}>
+          <video autoPlay muted playsInline={true} key={videoSrc} loop>
             <source src={videoSrc} type="video/mp4" />
           </video>
         </div>
