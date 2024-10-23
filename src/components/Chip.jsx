@@ -85,7 +85,7 @@ export default function Chip() {
           <p className="hiw-text g_fadeIn">
             Mobile{" "}
             <span className="text-white">
-              games will look and feel so immersive
+              games will look and feel so immersive{" "}
             </span>
             with incredibly detailed environments and characters.
           </p>
